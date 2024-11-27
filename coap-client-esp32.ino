@@ -4,8 +4,8 @@
 Thing::CoAP::Client coapClient;
 Thing::CoAP::ESP::UDPPacketProvider udpProvider;
 
-const char* ssid = "Kertanegara66";
-const char* password = "prasetio89";
+const char* ssid = "SSID";
+const char* password = "PSWD";
 
 IPAddress serverIp(192, 168, 1, 10);
 const uint16_t serverPort = 8080;
